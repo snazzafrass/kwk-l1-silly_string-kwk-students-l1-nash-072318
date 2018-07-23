@@ -28,3 +28,5 @@ You can run `learn` to see if the tests are passing.
 ## Hints
 
 Don't edit the variable names in the file. Try running `ruby silly_string.rb` to see what is being printed.
+
+puts "" 
